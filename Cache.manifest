@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# The Wolf Host 505 ( Wed 05/04/2022 )
+# The Wolf Host 505 ( Sun 05/22/2022 )
 
 apptousb.bin
 backup.bin
@@ -18,7 +18,6 @@ fan65.bin
 fan70.bin
 fan75.bin
 fan80.bin
-FanControl.html
 ftp.bin
 goldhen212.bin
 goldhen222.bin
@@ -31,6 +30,7 @@ gtaIntense.bin
 gtaIntense127.bin
 gtaLamance.bin
 gtaLamance127.bin
+gtaLamance138.bin
 gtaLotus127.bin
 gtaLTS127.bin
 gtaNotAnother.bin
